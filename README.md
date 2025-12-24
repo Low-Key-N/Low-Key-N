@@ -20,4 +20,4 @@ I am an aspiring Software Engineer passionate about building clean, responsive, 
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](https:[//www.linkedin.com/](https://www.linkedin.com/in/keyon-bigelow-5568bb364)) ```
+* [LinkedIn](https:[//www.linkedin.com/](https://www.linkedin.com/in/keyon-bigelow-5568bb364))
