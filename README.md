@@ -12,10 +12,8 @@ I am an aspiring Software Engineer passionate about building clean, responsive, 
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Low-Key-N&show_icons=true&theme=radical&hide_border=true" alt="Keyon's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Low-Key-N&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Keyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Low-Key-N&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-Key-N&layout=compact&theme=radical)
 
 ---
 
