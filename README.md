@@ -6,15 +6,11 @@ I am an aspiring Software Engineer passionate about building clean, responsive, 
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** HTML5, CSS3, JavaScript
-* **Tools:** VS Code, Git/GitHub, Figma
-
----
-
-### 📊 My GitHub Stats
-![Keyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Low-Key-N&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-Key-N&layout=compact&theme=radical)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ### 📫 Connect with Me
