@@ -1,10 +1,14 @@
 ### Hi there, I'm Keyon! 👋
 **UX Engineer | Computer Science Student @ Towson University**
 
-I am an aspiring Software Engineer passionate about building clean, responsive, and user-friendly websites.
+I’m an aspiring Software Engineer focused on building interfaces that are intuitive, intentional, and grounded in real user behavior.
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Low-Key-N&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Low-Key-N&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-Key-N&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,3 +20,9 @@ I am an aspiring Software Engineer passionate about building clean, responsive, 
 
 ### 📫 Connect with Me
 * [LinkedIn](https:[//www.linkedin.com/](https://www.linkedin.com/in/keyon-bigelow-5568bb364))
+
+---
+### Currently
+- Building a collaborative task board web app (frontend + API integration)
+- Refining my portfolio website with a focus on clarity and accessibility
+- Strengthening fundamentals in Java, JavaScript, and modern frontend workflows
