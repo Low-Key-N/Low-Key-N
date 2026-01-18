@@ -5,9 +5,9 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Low-Key-N&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Low-Key-N&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-Key-N&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
