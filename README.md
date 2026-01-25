@@ -4,7 +4,7 @@
 I’m an aspiring Software Engineer focused on building interfaces that are intuitive, intentional, and grounded in real user behavior.
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Low-Key-N&theme=default&hide_border=false)<br/>
 
