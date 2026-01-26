@@ -1,4 +1,4 @@
-### Hi there, I'm Keyon! 👋
+### Hi, I'm Keyon! 👋
 **UX Engineer | Computer Science Student @ Towson University**
 
 I’m an aspiring Software Engineer focused on building interfaces that are intuitive, intentional, and grounded in real user behavior.
