@@ -23,6 +23,5 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 
 ---
 ### Currently
-- Building a collaborative task board web app (frontend + API integration)
 - Refining my portfolio website with a focus on clarity and accessibility
 - Strengthening fundamentals in Java, JavaScript, and modern frontend workflows
