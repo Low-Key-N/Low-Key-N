@@ -14,8 +14,6 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Low-Key-N?cardType=level-alternate&theme=vue-dark&fontFamily=Roboto%20Flex&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Low-Key-N's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=Low-Key-N&type=languages&theme=monochrome&chart=donut)
-
 ---
 ### 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
