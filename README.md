@@ -6,7 +6,15 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 ---
 # 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Low-Key-N&theme=default&hide_border=false)<br/>
+<img src="https://komarev.com/ghpvc/?username=Low-Key-N&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Low-Key-N&theme=ambient-gradient)](https://git.io/streak-stats)
+
+<br/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Low-Key-N?cardType=level-alternate&theme=vue-dark&fontFamily=Roboto%20Flex&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Low-Key-N's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=Low-Key-N&type=languages&theme=monochrome&chart=donut)
 
 ---
 ### 🛠️ Tech Stack:
@@ -16,10 +24,10 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
----
 
+---
 ### 📫 Connect with Me
-* [LinkedIn](https:[//www.linkedin.com/](https://www.linkedin.com/in/keyon-bigelow-5568bb364))
+* [LinkedIn](https://www.linkedin.com/in/keyon-bigelow-5568bb364)
 
 ---
 ### Currently
