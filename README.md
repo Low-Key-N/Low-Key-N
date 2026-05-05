@@ -8,10 +8,6 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 
 <img src="https://komarev.com/ghpvc/?username=Low-Key-N&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Low-Key-N&theme=ambient-gradient)](https://git.io/streak-stats)
-
-<br/>
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Low-Key-N?cardType=level-alternate&theme=vue-dark&fontFamily=Roboto%20Flex&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
