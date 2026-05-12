@@ -25,10 +25,6 @@ I’m an aspiring Software Engineer focused on building interfaces that are intu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ---
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/keyon-bigelow-5568bb364)
-
----
 ### Currently
 - Refining my portfolio website with a focus on clarity and accessibility
 - Strengthening fundamentals in Java, JavaScript, and modern frontend workflows
