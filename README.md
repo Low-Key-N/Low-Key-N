@@ -11,7 +11,7 @@
   <a href="https://keyonbigelow.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kbigelo2@students.towson.edu">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -19,7 +19,14 @@
 ---
 
 <p align="center">
-  <img src="./github-banner.svg" alt="Keyon Bigelow — UX Engineer" width="100%">
+  <img src="./github-banner.svg"
+       alt="Keyon Bigelow — UX Engineer"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Low-Key-N&color=blue&style=flat-square&label=Profile+Views"
+       alt="Profile Views">
 </p>
 
 ---
@@ -32,14 +39,6 @@ I'm an aspiring UX engineer focused on building interfaces that are intuitive, i
 - 🔐 Building OneTap, a multimodal authentication system
 - 🎨 Interested in UX engineering, front-end development, and HCI
 - 🎓 Computer Science student at Towson University
-
----
-
-## 🌱 Currently
-
-- Refining my portfolio with a focus on clarity and accessibility
-- Strengthening my JavaScript, React, and front-end fundamentals
-- Exploring mobile development with React Native and Expo
 
 ---
 
@@ -57,9 +56,3 @@ I'm an aspiring UX engineer focused on building interfaces that are intuitive, i
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Low-Key-N&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
