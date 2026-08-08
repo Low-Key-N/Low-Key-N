@@ -28,11 +28,3 @@
   <img src="https://komarev.com/ghpvc/?username=Low-Key-N&color=blue&style=flat-square&label=Profile+Views"
        alt="Profile Views">
 </p>
-
----
-
-## 🚀 About Me
-
-I'm an aspiring UX engineer focused on building interfaces that are intuitive, intentional, accessible, and grounded in real user behavior.
-
----
